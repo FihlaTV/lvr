@@ -4,10 +4,9 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 <div align="center">
   <a href="https://liyas-thomas.firebaseapp.com"><img src="https://raw.githubusercontent.com/liyasthomas/templates/master/assets/logo.gif" alt="Liyas Thomas" width="200"></a>
   <br>
-  <h1>Liyas Thomas</h1>
+  <h1>VISAR Labs</h1>
   <sub>Built with ❤︎ by
-  <a href="https://github.com/liyasthomas">liyasthomas</a> and
-  <a href="https://github.com/liyasthomas/templates/graphs/contributors">contributors</a>
+  <a href="https://visar.co.za">Thomas Fihla</a> 
 	</sub>
 </div>
 
