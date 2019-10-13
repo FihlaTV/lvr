@@ -14,15 +14,9 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 
 [![Build Status](https://travis-ci.org/liyasthomas/lvr.svg?branch=master)](https://travis-ci.org/liyasthomas/lvr) [![GitHub release](https://img.shields.io/github/release/liyasthomas/lvr/all.svg)](https://github.com/liyasthomas/lvr/releases/latest) [![repo size](https://img.shields.io/github/repo-size/liyasthomas/lvr.svg)](https://github.com/liyasthomas/lvr/archive/master.zip) [![license](https://img.shields.io/github/license/liyasthomas/lvr.svg)](https://github.com/liyasthomas/lvr/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/liyasthomas/lvr/issues) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://liyas-thomas.firebaseapp.com) [![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg)](https://www.paypal.me/liyascthomas)
 
-# Lvr <img src="https://raw.githubusercontent.com/liyasthomas/lvr/master/assets/images/favicon.png" alt="Lvr" width="32">
+# Lvr <img src="assets/images/favicon.png" alt="Lvr" width="32">
 
 ### :eyeglasses: Virtual reality for everyone by [Liyas Thomas](https://github.com/liyasthomas)
-
-<div align="center">
-  <br>
-  <img src="https://storage.googleapis.com/gd-wagtail-prod-assets/images/ARUX_hero2_2x1.max-4000x2000.jpegquality-90.png" alt="Lvr" width="100%">
-  <br>
-</div>
 
 ### Features :sparkles:
 
@@ -41,12 +35,6 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-<div align="center">
-  <br>
-  <img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/ARUX_inline-option3.jpg" alt="Lvr" width="100%">
-  <br>
-</div>
 
 ### Prerequisites
 
@@ -70,14 +58,14 @@ It works on all platforms. Android, iOS and Windows phone. It runs on **any brow
 
 Try on your phone in only two easy steps, check it out!
 
-1. Open any [marker image from here](https://github.com/liyasthomas/lvr/tree/master/assets/patterns) in your browser.
+1. Open [marker image from here](https://github.com/liyasthomas/lvr/blob/master/assets/images/patterns/barcode/1.png) in your browser.
 2. Open my [augmented reality web app](https://liyasthomas.github.io/lvr) in your phone browser. Give permissions to access camera. Scan marker image with your camera.
 
 You're done! It will open a web page which read the phone's webcam, localize a marker and add 3D on top of it.
 
 <div align="center">
   <br>
-  <img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/ARUX_inline2-option1.png" alt="Lvr" width="100%">
+  <img src="assets/images/screely.gif" alt="Lvr" width="100%">
   <br>
 </div>
 
@@ -138,7 +126,7 @@ Will be explained later
 
 ## Contributing
 
-Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our [CODE OF CONDUCT](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 ---
 
