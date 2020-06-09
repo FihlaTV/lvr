@@ -16,7 +16,7 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 
 # Lvr <img src="assets/images/favicon.png" alt="Lvr" width="32">
 
-### :eyeglasses: Virtual reality for everyone by [Liyas Thomas](https://github.com/liyasthomas)
+### :eyeglasses: Virtual reality for everyone by [Thomas Fhila](https://za.linkedin.com/fihlatv)
 
 ### Features :sparkles:
 
