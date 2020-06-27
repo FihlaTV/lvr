@@ -2,10 +2,10 @@
 	"name": "lvr",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/liyasthomas/lvr.git"
+		"url": "https://github.com/FihlaTV/lvr.git"
 	},
-	"description": "Virtual reality for everyone by Liyas Thomas",
-	"author": "@liyasthomas",
+	"description": "Virtual reality for everyone by Thomas Fihla",
+	"author": "@fihlatv",
 	"version": "1.0.0",
 	"devDependencies": {
 		"jshint": "^2.11.0"
